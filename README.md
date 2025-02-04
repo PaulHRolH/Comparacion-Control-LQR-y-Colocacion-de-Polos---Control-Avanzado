@@ -4,7 +4,7 @@
 # Control-por-Realimentacion-de-Estados-LQR
 
 
-> Simulacion de Control de sistema lineal en bicicleta usando LQR en matlab parta la clase de Control Avanzado (14/5/24)
+> Simulacion de Control de bicicleta usando LQR en matlab parta la clase de Control Avanzado (14/5/24)
 
 
 ## Built With
